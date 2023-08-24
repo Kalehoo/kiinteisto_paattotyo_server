@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Teko'; /*a name to be used later*/
+    src: url('../assests/fonts/Teko-VariableFont_wght.ttf');
+}
+
+body{
+    font-family: 'Teko';
+}
